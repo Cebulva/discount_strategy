@@ -61,7 +61,8 @@ cd discount_strategy
 
 ### 4. Project Workflow
 
-Our work on this project was a comprehensive process, from data cleanup to the final presentation. This section outlines our approach.
+![Project overview](https://github.com/Cebulva/discount_strategy/blob/main/Screenshots/Screenshot-2025-01-22-at-14.19.58.png)
+
 
 ### 4.1. Data Cleaning And Quality Assessment
 We began by assessing the data quality of four interconnected CSV files. This phase was critical, as the data had several inconsistencies, including duplicate rows, corrupted price values, and missing information. We used Python with Pandas to perform extensive cleaning tasks and ensure data integrity before any analysis.
