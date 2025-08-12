@@ -129,4 +129,4 @@ This project was a collaborative effort. We would like to thank the following in
 
 - [@camontefusco](https://github.com/camontefusco/): Carlos Montefusco
 - Asli Strollo
-- Azumi Muhammed
+- [@azumimuhammed](https://github.com/AzumiMuhammed):Azumi Muhammed
